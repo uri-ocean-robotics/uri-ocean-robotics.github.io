@@ -9,6 +9,8 @@ Welcome to URI Ocean Robotics Documentation's documentation!
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
+   
+   development-conventions
 
 
 
